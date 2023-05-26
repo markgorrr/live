@@ -175,10 +175,10 @@ $c_start长江云$c_end
 宜昌旅游生活,http://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1704038399-0-0-3d860fa1416cd57880e89ba4d6077353
 宜都综合,http://yidushi-live21.cjyun.org/yidushi/s10092-yidushitv01.m3u8?auth_key=1704038399-0-0-f4d74ed0ac9ceda3f3bc9578111a235b
 长阳综合,http://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1704038399-0-0-1fcaab230981d2c4f214defbef335ed5
-远安http://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1704038399-0-0-4d63b3e7a5ca5d8a9a6ec38a5f3ecabc
-当阳,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1704038399-0-0-d94526965480b96a43608d6ddad3c9a8
+远安综合,http://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1704038399-0-0-4d63b3e7a5ca5d8a9a6ec38a5f3ecabc
+当阳综合,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1704038399-0-0-d94526965480b96a43608d6ddad3c9a8
 秭归新闻综合,http://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1704038399-0-0-74d94da372e55ee5587c2707140eab2c
-五峰,http://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1704038399-0-0-236fe139fc8989e5586aab605371a64b
+五峰综合,http://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1704038399-0-0-236fe139fc8989e5586aab605371a64b
 兴山综合,http://xingshan-live21.cjyun.org/cjyun/s10108-xingshanTV01.m3u8?auth_key=1704038399-0-0-d18d120277c3d0e90b935cf0d1aaeb44
 枝江综合,http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1704038399-0-0-83fa74ca5e3befbc1c030c961206757c
 荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1704038399-0-0-9b2442b7b11f661edfe71bc7a3a3a5a2
@@ -189,7 +189,6 @@ $c_start长江云$c_end
 江陵经济生活,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=1704038399-0-0-b9e3fdf662c0b3e550dd4f06836b2b39
 洪湖新闻,http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1704038399-0-0-3c36b1de4c1426daf26ac901c7b33436
 洪湖生活,http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUFM01.m3u8?auth_key=1704038399-0-0-e68b005677c9b051fa09ba8b43e8c8f1
-沙洋,http://shayang-live21.cjyun.org/10110/s10110-sytv1.m3u8?auth_key=1704038399-0-0-b07aa5a0a6f1c83a3c61bb86c94a8fee
 荆门新闻综合,http://jingmen-live21.cjyun.org/10101/s10101-jmnews.m3u8?auth_key=1704038399-0-0-13c3bcd900adf2e0769c37e9b77ac917
 荆门科教文旅,http://jingmen-live21.cjyun.org/10101/s10101-jmjytv.m3u8?auth_key=1704038399-0-0-07df8996b53392164dd8c9da2b3e1477
 钟祥新闻综合,http://zhongxiang-live21.cjyun.org/10103/s10103-zxtv.m3u8?auth_key=1704038399-0-0-7d39d4294532f813a227b0d053cebf35
@@ -198,13 +197,12 @@ $c_start长江云$c_end
 黄冈生活,http://huanggang-live21.cjyun.org/10120/s10120-xwgg.m3u8?auth_key=1704038399-0-0-6fa37070415efc6d085d8a432247eb4a
 红安综合,http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1704038399-0-0-636fa13407289721c04902585b40acec
 团风综合,http://tuanfeng-live21.cjyun.org/10113/s10113-tftv1.m3u8?auth_key=1704038399-0-0-6e027238f9aa06c0c8b4eecd15984850
-团风生活,http://tuanfeng-live21.cjyun.org/10113/s10113-tftv2.m3u8?auth_key=1704038399-0-0-b9d774c08de769785b8d217de6962797
 黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1704038399-0-0-16aa429960c0d43a0f80e83bbf91698a
-大冶,http://dayeyun-live21.cjyun.org/10102/s10102-TC1T.m3u8?auth_key=1704038399-0-0-af30d98ecd8f1416fce9932911a6a5bc
+大冶综合,http://dayeyun-live21.cjyun.org/10102/s10102-TC1T.m3u8?auth_key=1704038399-0-0-af30d98ecd8f1416fce9932911a6a5bc
 阳新综合,https://yangxin-live21.cjyun.org/10104/s10104-yangxin-tv01.m3u8?auth_key=1704038399-0-0-765baba6bbd0c61a3bacffe8549d8d91
 咸宁综合https://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1704038399-0-0-3a430a04b001154f7360d7a213a73319
 咸宁经济生活,https://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1704038399-0-0-57a073b16d0dbf7182a51df714d103f9
-赤壁,https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1704038399-0-0-3e14934b414f1f4b7b4c432ca6281e6d
+赤壁综合,https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1704038399-0-0-3e14934b414f1f4b7b4c432ca6281e6d
 嘉鱼新闻综合,http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1704038399-0-0-d89a910ae4d57b439b4e9a11a56d25d2
 通山综合,http://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1704038399-0-0-4591ff02ae296e89d57bfabacaf7e129
 通城综合,https://tongcheng-live21.cjyun.org/10132/s10132-tongchengtv01.m3u8?auth_key=1704038399-0-0-4340a5902757b9adebfafe14d7d1e683
