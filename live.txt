@@ -113,7 +113,6 @@ CCTV怀旧剧场,rtsp://122.191.50.135/PLTV/88888888/224/3221226150/100001000000
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
-武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 黄陂新闻,http://livehprm.hptv.com.cn/zbpd/sd/live.m3u8
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
@@ -1125,3 +1124,7 @@ EYE TV戏剧台,P2p://135.148.104.228:19806/75e45b2ae9bd4a5fa05906c00742d7a1
 爱尔达影剧台,P2p://135.148.104.228:19806/6458c4bf000bb65f5c956b8f6ab30530
 Hub娱家,P2p://135.148.104.228:19806/645c74d80002def46afd4af57b744ca1
 亚洲剧台,P2p://135.148.104.228:19806/9d60d2f9f6fa4a368fbe457f8efad108
+
+国际,#genre#
+VOA衛視,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+NTD美東台,https://ntd02.akamaized.net/HD-NY/index.m3u8
