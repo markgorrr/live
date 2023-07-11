@@ -875,4 +875,4 @@ K,mitv://generationnexxxt.com:19806/5e51b7ff2fa34cb6a667e3d3c217da88
 国际,#genre#
 VOA衛視,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 NTD美東台,https://ntd02.akamaized.net/HD-NY/index.m3u8
-1905电源,https://m.1905.com/m/1905tv/list/
+1905电影,http://120.78.165.185:4789/1905.php?id=1905dy
