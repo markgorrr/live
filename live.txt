@@ -552,7 +552,5 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 
 网络,#genre#
 1905电影,http://angtv.cc/live/1905.php?id=1905dy
-
-国际,#genre#
 VOA衛視,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 NTD美東台,https://ntd02.akamaized.net/HD-NY/index.m3u8
