@@ -550,7 +550,8 @@ Sky Sports Main Event,P2p://generationnexxxt.com:19806/d80cfc5272f14b4bb675b1c86
 Sky Sports Cricket,P2p://generationnexxxt.com:19806/d342ec6589c24499b5f806408bea4ae8
 Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060989
 
-网络,#genre#
+国际,#genre#
 1905电影,http://angtv.cc/live/1905.php?id=1905dy
-VOA衛視,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 NTD美東台,https://ntd02.akamaized.net/HD-NY/index.m3u8
+VOA衛視,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
