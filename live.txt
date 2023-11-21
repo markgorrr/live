@@ -1,4 +1,3 @@
-
 vjms,#genre#
 iscovery Science(HD),vjms://58.215.133.189:8500:3502/live/cid=457
 Animal Planet,vjms://58.215.133.189:8500:3502/live/cid=3
