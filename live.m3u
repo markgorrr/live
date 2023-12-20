@@ -217,6 +217,8 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001318/index.m3u8
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001196/index.m3u8
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="数字",游戏风云
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001192/index.m3u8
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="数字",乐游
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001200/index.m3u8
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="数字",法治天地
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001195/index.m3u8
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="数字",都市剧场
@@ -263,8 +265,6 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://epg.112114.xyz/logo/上海纪实人文.png" group-title="纪录",上海纪实人文
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001019/index.m3u8
-#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="纪录",乐游
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001200/index.m3u8
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="纪录",北京纪实
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="少儿",哈哈炫动
