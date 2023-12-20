@@ -235,23 +235,83 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001199/index.m3u8
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="数字",茶
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001234/index.m3u8
-#EXTINF:-1,tvg-id="华数亚洲影院" tvg-name="华数亚洲影院" tvg-logo="https://epg.112114.xyz/logo/华数亚洲影院.png" group-title="数字",华数亚洲影院
+#EXTINF:-1,tvg-id="爱电竞" tvg-name="爱电竞" tvg-logo="https://epg.112114.xyz/logo/爱电竞.png" group-title="华数",爱电竞
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="华数",爱谍战
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="华数",爱动漫
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱都市" tvg-name="爱都市" tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="华数",爱都市
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="华数",爱怀旧
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱极限" tvg-name="爱极限" tvg-logo="https://epg.112114.xyz/logo/爱极限.png" group-title="华数",爱极限
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱家庭" tvg-name="爱家庭" tvg-logo="https://epg.112114.xyz/logo/爱家庭.png" group-title="华数",爱家庭
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱江湖" tvg-name="爱江湖" tvg-logo="https://epg.112114.xyz/logo/爱江湖.png" group-title="华数",爱江湖
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱解密" tvg-name="爱解密" tvg-logo="https://epg.112114.xyz/logo/爱解密.png" group-title="华数",爱解密
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://epg.112114.xyz/logo/爱经典.png" group-title="华数",爱经典
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="华数",爱科幻
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://epg.112114.xyz/logo/爱科学.png" group-title="华数",爱科学
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.112114.xyz/logo/爱浪漫.png" group-title="华数",爱浪漫
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://epg.112114.xyz/logo/爱历史.png" group-title="华数",爱历史
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱猎奇" tvg-name="爱猎奇" tvg-logo="https://epg.112114.xyz/logo/爱猎奇.png" group-title="华数",爱猎奇
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://epg.112114.xyz/logo/爱旅行.png" group-title="华数",爱旅行
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱美食" tvg-name="爱美食" tvg-logo="https://epg.112114.xyz/logo/爱美食.png" group-title="华数",爱美食
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://epg.112114.xyz/logo/爱奇谈.png" group-title="华数",爱奇谈
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱青春" tvg-name="爱青春" tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="华数",爱青春
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://epg.112114.xyz/logo/爱赛车.png" group-title="华数",爱赛车
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱时尚" tvg-name="爱时尚" tvg-logo="https://epg.112114.xyz/logo/爱时尚.png" group-title="华数",爱时尚
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱世界" tvg-name="爱世界" tvg-logo="https://epg.112114.xyz/logo/爱世界.png" group-title="华数",爱世界
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱探索" tvg-name="爱探索" tvg-logo="https://epg.112114.xyz/logo/爱探索.png" group-title="华数",爱探索
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.112114.xyz/logo/爱体育.png" group-title="华数",爱体育
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="华数",爱玩具
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="华数",爱喜剧
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="华数",爱悬疑
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="华数",爱幼教
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱娱乐" tvg-name="爱娱乐" tvg-logo="https://epg.112114.xyz/logo/爱娱乐.png" group-title="华数",爱娱乐
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="华数",爱院线
+http://[2409:8087:7001:20:1000::95]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="华数亚洲影院" tvg-name="华数亚洲影院" tvg-logo="https://epg.112114.xyz/logo/华数亚洲影院.png" group-title="华数",华数亚洲影院
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/1.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="华数欧美影院" tvg-name="华数欧美影院" tvg-logo="https://epg.112114.xyz/logo/华数欧美影院.png" group-title="数字",华数欧美影院
+#EXTINF:-1,tvg-id="华数欧美影院" tvg-name="华数欧美影院" tvg-logo="https://epg.112114.xyz/logo/华数欧美影院.png" group-title="华数",华数欧美影院
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/1.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="华数精品剧场" tvg-name="华数精品剧场" tvg-logo="https://epg.112114.xyz/logo/华数精品剧场.png" group-title="数字",华数精品剧场
+#EXTINF:-1,tvg-id="华数精品剧场" tvg-name="华数精品剧场" tvg-logo="https://epg.112114.xyz/logo/华数精品剧场.png" group-title="华数",华数精品剧场
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/1.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="华数少儿动漫" tvg-name="华数少儿动漫" tvg-logo="https://epg.112114.xyz/logo/华数少儿动漫.png" group-title="数字",华数少儿动漫
+#EXTINF:-1,tvg-id="华数少儿动漫" tvg-name="华数少儿动漫" tvg-logo="https://epg.112114.xyz/logo/华数少儿动漫.png" group-title="华数",华数少儿动漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/1.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="华数漫游世界" tvg-name="华数漫游世界" tvg-logo="https://epg.112114.xyz/logo/华数漫游世界.png" group-title="数字",华数漫游世界
+#EXTINF:-1,tvg-id="华数漫游世界" tvg-name="华数漫游世界" tvg-logo="https://epg.112114.xyz/logo/华数漫游世界.png" group-title="华数",华数漫游世界
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000028434/1.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="华数探索纪录" tvg-name="华数探索纪录" tvg-logo="https://epg.112114.xyz/logo/华数探索纪录.png" group-title="数字",华数探索纪录
+#EXTINF:-1,tvg-id="华数探索纪录" tvg-name="华数探索纪录" tvg-logo="https://epg.112114.xyz/logo/华数探索纪录.png" group-title="华数",华数探索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5359008697329269813/1.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="华数风尚音乐" tvg-name="华数风尚音乐" tvg-logo="https://epg.112114.xyz/logo/华数风尚音乐.png" group-title="数字",华数风尚音乐
+#EXTINF:-1,tvg-id="华数风尚音乐" tvg-name="华数风尚音乐" tvg-logo="https://epg.112114.xyz/logo/华数风尚音乐.png" group-title="华数",华数风尚音乐
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="华数高清娱乐" tvg-name="华数高清娱乐" tvg-logo="https://epg.112114.xyz/logo/华数高清娱乐.png" group-title="数字",华数高清娱乐
+#EXTINF:-1,tvg-id="华数高清娱乐" tvg-name="华数高清娱乐" tvg-logo="https://epg.112114.xyz/logo/华数高清娱乐.png" group-title="华数",华数高清娱乐
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000001569/1.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="华数电子竞技" tvg-name="华数电子竞技" tvg-logo="https://epg.112114.xyz/logo/华数电子竞技.png" group-title="数字",华数电子竞技
+#EXTINF:-1,tvg-id="华数电子竞技" tvg-name="华数电子竞技" tvg-logo="https://epg.112114.xyz/logo/华数电子竞技.png" group-title="华数",华数电子竞技
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000011654/1.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="纪录",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
