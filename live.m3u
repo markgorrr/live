@@ -232,6 +232,7 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="数字",快乐垂钓
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="数字",茶
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1,tvg-id="华数亚洲影院" tvg-name="华数亚洲影院" tvg-logo="https://epg.112114.xyz/logo/华数亚洲影院.png" group-title="数字",华数亚洲影院
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/1.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="华数欧美影院" tvg-name="华数欧美影院" tvg-logo="https://epg.112114.xyz/logo/华数欧美影院.png" group-title="数字",华数欧美影院
@@ -250,7 +251,6 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/5529729098703832176/1.m3u8
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000001569/1.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="华数电子竞技" tvg-name="华数电子竞技" tvg-logo="https://epg.112114.xyz/logo/华数电子竞技.png" group-title="数字",华数电子竞技
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000011654/1.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=3
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="纪录",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="纪录",求索动物
@@ -263,7 +263,7 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://epg.112114.xyz/logo/上海纪实人文.png" group-title="纪录",上海纪实人文
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001019/index.m3u8
-#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="纪录",全纪实
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="纪录",乐游
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001200/index.m3u8
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="纪录",北京纪实
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
