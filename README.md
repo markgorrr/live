@@ -1,2 +1,2 @@
 # Live
-live source
+iptv source
