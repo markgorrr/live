@@ -297,6 +297,10 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000002000029972/index.
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
 #EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="数字频道",中华美食
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/4/224/3221227647/index.m3u8
+#EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://epg.112114.xyz/logo/精彩影视.png" group-title="数字频道",精彩影视
+http://[2409:8087:7001:20:1000::88]:6610/000000001000/2000000004000000063/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="数字频道",中国天气
+http://[2409:8087:7001:20:1000::88]:6610/000000001000/2000000002000000057/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000057&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="纪录频道",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="纪录频道",求索动物
