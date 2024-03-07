@@ -159,6 +159,8 @@ http://[2409:8087:7001:20:1000::93]:6610/000000001000/4682579636905393407/index.
 http://[2409:8087:7001:20:1000::93]:6610/000000001000/6427893650335440392/index.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://epg.112114.xyz/logo/湖南电视剧.png" group-title="地方频道",湖南电视剧
 http://[2409:8087:7001:20:1000::93]:6610/000000001000/8765482907954673867/index.m3u8?channel-id=hnbblive&Contentid=8765482907954673867&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://epg.112114.xyz/logo/湖南爱晚.png" group-title="地方频道",湖南爱晚
+http://[2409:8087:7001:20:1000::93]:6610/000000001000/6307875884530512195/index.m3u8?channel-id=hnbblive&Contentid=6307875884530512195&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://epg.112114.xyz/logo/湖南电影.png" group-title="地方频道",湖南电影
 http://[2409:8087:7001:20:1000::93]:6610/000000001000/7884242846753128038/index.m3u8?channel-id=hnbblive&Contentid=7884242846753128038&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://epg.112114.xyz/logo/湖南国际.png" group-title="地方频道",湖南国际
