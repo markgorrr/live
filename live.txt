@@ -7,6 +7,9 @@
 台視新聞台,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
 三立新聞台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 非凡新聞台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+Now爆谷台,p3p://108.181.32.169:55315/641af90c000328bac2b691f11db2274a
+Now星影台,p3p://108.181.32.169:55315/641af926000cc2b9c2b6f9f75c8d2b97
+
 国际,#genre#
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 VOA衛視,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
