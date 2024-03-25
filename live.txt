@@ -51,7 +51,6 @@
 枝江综合,http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1735660799-0-0-fd9715217b53a31e92b5d42d24438b4a
 恩施新闻综合,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8
 恩施文旅,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8
-鹤峰综合,http://40568.hlsplay.aodianyun.com/tv_radio_40568/tv_channel_3023.m3u8?auth_key=4857786365-0-0-8b20a087d454fcf44a7d97911b4a4311&extra_key=-Kc1-1SHyjwHP9uIJmfaC6EYB9W-jC2o4OQdPicV_T_LpkEvQU_A3lKR4qgtzHyg3kd22knBJ0ZktvECqnaKREugP6XYRpVH_ziXWU75bXY3gV6wgnNECWXsfgsV6-YtjnA4NRno85ks8fLNSLOSTNGs7sfSzvBqkLyRkd8SwxQ
 来凤综合,http://laifeng-live21.cjyun.org/10099/s10099-lftv01.m3u8?auth_key=1735660799-0-0-b92e243bcdd451ba46874699b392247e
 十堰新闻综合,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰经济旅游,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
@@ -59,4 +58,5 @@
 测试,#genre#
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 VOA衛視,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-NTD美東台,https://ntd02.akamaized.net/HD-NY/index.m3u8
+NTD美東台,https://live.ntdtv.com/live900/playlist.m3u8
+SOH,https://livecast1.soundofhope.org:2087/soh-live
