@@ -58,5 +58,3 @@
 测试,#genre#
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 VOA衛視,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-NTD美東台,https://live.ntdtv.com/live900/playlist.m3u8
-SOH,https://livecast1.soundofhope.org:2087/soh-live
