@@ -1,235 +1,235 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv1hd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv2hd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8              
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv38m/8000000/mnf.m3u8              
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv4hd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8              
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv58m/8000000/mnf.m3u8              
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv6hd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv7hd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv8hd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv9hd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv10hd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv11hd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv12hd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8        
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8        
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctvsehd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctvsehd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv15hd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv16hd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv17hd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv5phd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16 4K
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8      
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv16hd4k/15000000/mnf.m3u8      
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV 4K
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cctv4k/15000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/ottcctvnews/1300000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/ottcctvnews/1300000
 #EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="央视",CETV1
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/zgjy1t8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/zgjy1t8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="央视",CETV2
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cetv2/2500000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cetv2/2500000
 #EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="央视",CETV4
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/zgjy4hd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/bjwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/dfwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/zjwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8      
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/hunanwshd8m/8000000/mnf.m3u8      
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/jswshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/sdws8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/shanxiws/1300000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/shanxiws/1300000
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/hbwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/hnwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/tjwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hljwshd8m/8000000/mnf.m3u8      
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/hljwshd8m/8000000/mnf.m3u8      
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jlwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/jlwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/lnwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/lnwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/jxws8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hbwshd/4000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/hbwshd/4000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/ahwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/gdwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/gxwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/szwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/ynwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/gzwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/gzwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/scws8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/scws8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://epg.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/kbws/2500000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/kbws/2500000
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cqws8m/8000000/mnf.m3u8
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cqws8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dnwshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/dnwshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" group-title="卫视",海峡卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hxwshd4m/4000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/hxwshd4m/4000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xmws/1300000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/xmws/1300000
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hainanwshd8m/8000000/mnf.m3u8  
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/hainanwshd8m/8000000/mnf.m3u8  
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/sswshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/sswshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/sxws/1300000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/sxws/1300000
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/gswshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/nxws/1300000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/nxws/1300000
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qhws/1300000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/qhws/1300000
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/nmgws/1300000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/nmgws/1300000
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xjws/1300000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/xjws/1300000
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/btws/1300000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/btws/1300000
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xzws/2500000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/xzws/2500000
 #EXTINF:-1,tvg-id="西藏藏语卫视" tvg-name="西藏藏语卫视" tvg-logo="https://epg.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xzwszy/2500000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/xzwszy/2500000
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="卫视",北京纪实
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dajs8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/dajs8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="卫视",金鹰纪实
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/jyjs8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="卫视",卡酷少儿
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/kkse8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/kkse8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="卫视",金鹰卡通
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jykt/1300000/mnf.m3u8    
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/jykt/1300000/mnf.m3u8    
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="卫视",嘉佳卡通
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jjkt/1300000/mnf.m3u8    
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/jjkt/1300000/mnf.m3u8    
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="地方",上海新闻综合
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/xwzhhd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.112114.xyz/logo/第一财经.png" group-title="地方",第一财经
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/dycjhd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="地方",东方影视
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/dfyshd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="地方",五星体育
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/wxtyhd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://epg.112114.xyz/logo/上海纪实人文.png" group-title="地方",上海纪实人文
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jspdhd/4000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/jspdhd/4000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="地方",上海都市
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dshd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/dshd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="上海ICS" tvg-name="上海ICS" tvg-logo="https://epg.112114.xyz/logo/上海ICS.png" group-title="地方",上海ICS
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/icshd8m/8000000/mnf.m3u8           
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/icshd8m/8000000/mnf.m3u8           
 #EXTINF:-1,tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://epg.112114.xyz/logo/东方购物.png" group-title="地方",东方购物
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dfgwsxhd8m/8000000
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/dfgwsxhd8m/8000000
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="地方",哈哈炫动
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hhxd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/hhxd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="地方",上海教育
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/setvhd/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://epg.112114.xyz/logo/福建综合.png" group-title="地方",福建综合
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/fjzhhd4m/4000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/fjzhhd4m/4000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://epg.112114.xyz/logo/福建公共.png" group-title="地方",福建公共
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/fjgghd4m/4000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/fjgghd4m/4000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://epg.112114.xyz/logo/福建新闻.png" group-title="地方",福建新闻
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/fjxwhd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/fjxwhd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://epg.112114.xyz/logo/福建电视剧.png" group-title="地方",福建电视剧
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/fjdsjhd4m/4000000/mnf.m3u8      
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/fjdsjhd4m/4000000/mnf.m3u8      
 #EXTINF:-1,tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://epg.112114.xyz/logo/福建旅游.png" group-title="地方",福建旅游
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/fjlyhd4m/4000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/fjlyhd4m/4000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://epg.112114.xyz/logo/福建经济.png" group-title="地方",福建经济
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/fjjjshhd4m/4000000/mnf.m3u8        
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/fjjjshhd4m/4000000/mnf.m3u8        
 #EXTINF:-1,tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://epg.112114.xyz/logo/福建文体.png" group-title="地方",福建文体
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/fjtyhd4m/4000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/fjtyhd4m/4000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://epg.112114.xyz/logo/福建少儿.png" group-title="地方",福建少儿
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/fjsehd4m/4000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/fjsehd4m/4000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://epg.112114.xyz/logo/福建教育.png" group-title="地方",福建教育
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/fjjypdhd4m/4000000/mnf.m3u8        
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/fjjypdhd4m/4000000/mnf.m3u8        
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="数字",都市剧场
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dsjc8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/dsjc8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="数字",欢笑剧场
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hxjc8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/hxjc8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="数字",欢笑剧场 4K
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/hxjc4k/15000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="数字",动漫秀场
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/dmxc8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="数字",乐游
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8               
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/qjshd8m/8000000/mnf.m3u8               
 #EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="数字",东方财经
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/dfcjhd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="数字",法治天地
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/fztd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="数字",七彩戏剧
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qcxjhd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/qcxjhd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="数字",游戏风云
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/yxfy8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="数字",魅力足球
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/mlyyhd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="数字",生活时尚
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/shss8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="数字",金色学堂
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jingsepd8m/8000000/mnf.m3u8        
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/jingsepd8m/8000000/mnf.m3u8        
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" group-title="数字",劲爆体育
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8         
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/jbtyhd8m/8000000/mnf.m3u8         
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="数字",新视觉
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/xsjhd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="数字",快乐垂钓
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/klcd8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/klcd8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="数字",茶
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cpdhdavs8m/8000000/mnf.m3u8              
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cpdhdavs8m/8000000/mnf.m3u8              
 #EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="数字",财富天下
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cftx/2500000/mnf.m3u8    
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/cftx/2500000/mnf.m3u8    
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="数字",中国天气
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/zgqx/1300000/mnf.m3u8    
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/zgqx/1300000/mnf.m3u8    
 #EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",电竞天堂
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/djtt8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",谍战剧场
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/dzjc8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",华语影院
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/hyyy8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",健康养生
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8           
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/jkys8m/8000000/mnf.m3u8           
 #EXTINF:-1,tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",看天下精选
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/ktxjx8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",青春动漫
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/qcdm8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",全球大片
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/qqdp8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",热门剧场
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/rmjc8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",热门综艺
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/rmzy8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",戏曲精选
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xqjx8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/xqjx8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",星光影院
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8            
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/xgyy8m/8000000/mnf.m3u8            
 #EXTINF:-1,tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",百变课堂
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8    
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/bbkt8m/8000000/mnf.m3u8    
 #EXTINF:-1,tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://epg.112114.xyz/logo/BesTV.png" group-title="BesTV",宝宝动画
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8    
+http://116.172.148.65/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/fjnetv51.live.bestvcdn.com.cn/001/live/program/live/bbdh8m/8000000/mnf.m3u8    
