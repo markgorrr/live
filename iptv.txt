@@ -82,4 +82,15 @@ TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 
 测试,#genre#
-
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+凤凰资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
+八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
+amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+Discovery,http://61.221.215.25:8800/hls/1/index.m3u8
+Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
