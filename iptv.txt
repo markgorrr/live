@@ -131,7 +131,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
 云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
-云南国际,http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+澜湄国际,http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
 海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
 海南新闻,https://live3.hnntv.cn/srs/tv/xwpd.m3u8
 海南自贸,https://live3.hnntv.cn/srs/tv/jjpd.m3u8
