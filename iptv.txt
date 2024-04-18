@@ -180,7 +180,7 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 
-国际,#genre#
+晴天,#genre#
 BBC Lifestyle,P2p://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 民视,P2p://generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
 台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
