@@ -65,14 +65,6 @@ CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-北京卫视,http://liveyfs.yun.gehua.net.cn:8088/live/BTV1HDPortal_1500.m3u8?TOKEN=4a9446e41257825d8b773296e2126da4
-北京文艺,http://liveyfs.yun.gehua.net.cn:8088/live/BTVwenyiHD_1200.m3u8?TOKEN=69f227aa5fcd147271e857407786e05e
-北京纪实科教,http://liveyfs.yun.gehua.net.cn:8088/live/BTV3_800.m3u8?TOKEN=e484bd4149c9afdcdf6a424f760a343e
-北京影视,http://liveyfs.yun.gehua.net.cn:8088/live/ipcdn/BTV4HD/ipcdn,BTV4HD_1200K_live.m3u8?TOKEN=05b83af9650752ee9a4964e14b9c63d1
-北京财经,http://liveyfs.yun.gehua.net.cn:8088/live/BTV5_800.m3u8?TOKEN=d96737c4499d940ccb81337144a140e2
-北京体育休闲,http://liveyfs.yun.gehua.net.cn:8088/live/BTVjishiHD_1200.m3u8?TOKEN=36695524f963074b27144dee5c6e61e2
-北京生活,http://liveyfs.yun.gehua.net.cn:8088/live/BTV7_800.m3u8?TOKEN=12d3de09fc41f25fd56fa7b2aa6acc9b
-北京新闻,http://liveyfs.yun.gehua.net.cn:8088/live/ipcdn/BTVxinwenHD/ipcdn,BTVxinwenHD_1200K_live.m3u8?TOKEN=97e7390102111736af61d945cb173909
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
