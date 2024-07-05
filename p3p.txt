@@ -1984,13 +1984,13 @@ UEFA Contonese688,p3p://108.181.32.169:34159/666bf7e20007ad58efbfaed845992b0e
 Dyndns,#genre# 
 MTV live,p3p://fccsen.dyndns.tv:29706/59adf63f00089a1e1f96cf6523872643
 CNN International,p3p://fccsen.dyndns.tv:29706/5a20bffb0002906acb96445d76975880
-Beinsport FR1,p3p://fccsen.dyndns.tv:29706/5ef28d5e000ea60a544bbad142d06817
-Beinsport FR2,p3p://fccsen.dyndns.tv:29706/5a98ef450005f615a10e26f24e4370bc
-Beinsport FR3,p3p://fccsen.dyndns.tv:29706/5a98ef60000d6566a10e9251042026f2
+Bein Sports FR1,p3p://fccsen.dyndns.tv:29706/5ef28d5e000ea60a544bbad142d06817
+Bein Sports FR2,p3p://fccsen.dyndns.tv:29706/5a98ef450005f615a10e26f24e4370bc
+Bein Sports FR3,p3p://fccsen.dyndns.tv:29706/5a98ef60000d6566a10e9251042026f2
 UFC pass,p3p://fccsen.dyndns.tv:29706/5c4a5ad2000ba3f2fbdd8ccf71297ceb
 WWE,p3p://fccsen.dyndns.tv:29706/5b987ab5000ef7018744e50174a621bd
 Bein Sports USA,p3p://fccsen.dyndns.tv:29706/5c4a5e2a000ddac2fbea9d2420355926
-Bein Sport CA,p3p://fccsen.dyndns.tv:29706/5bd63729000b758e786c5e885c6634e3
+Bein Sports CA,p3p://fccsen.dyndns.tv:29706/5bd63729000b758e786c5e885c6634e3
 Euro News,p3p://fccsen.dyndns.tv:29706/5a5170cc000e8c1389c8a661433d15f1
 Fight Network,p3p://fccsen.dyndns.tv:29706/5b9878b100084486873d03b816881da0
 ESPN 1,p3p://fccsen.dyndns.tv:29706/59d24815000bb22cad7630914a1924b3
@@ -1999,8 +1999,8 @@ ESPN U,p3p://fccsen.dyndns.tv:29706/5a88cf44000028fc621142635fc84be5
 ESPN News,p3p://fccsen.dyndns.tv:29706/5c5ccceb00083b8d43eb3d9232165684
 NBA TV US,p3p://fccsen.dyndns.tv:29706/5d45b702000419e9d1bd300979f803ab
 NBA Canada,p3p://fccsen.dyndns.tv:29706/5d45b6b600003de3d1bc062c6ca215ee
-Fox Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf21600071468563679492664613f
-Fox Sport 2,p3p://fccsen.dyndns.tv:29706/59e2b81e00049c3eedabbfe568a9573b
+Fox Sports 1,p3p://fccsen.dyndns.tv:29706/59bbf21600071468563679492664613f
+Fox Sports 2,p3p://fccsen.dyndns.tv:29706/59e2b81e00049c3eedabbfe568a9573b
 Tennis,p3p://fccsen.dyndns.tv:29706/60b962030008c44344f88b155b45442f
 NFL Network,p3p://fccsen.dyndns.tv:29706/59bbf3f3000ef74f563dc29848a479f9
 NHL Network,p3p://fccsen.dyndns.tv:29706/5a4ae10a0001df28702715530b3e23dc
@@ -2012,20 +2012,20 @@ TSN 2,p3p://fccsen.dyndns.tv:29706/5d45b49f0004b838d1b3dd774be667a4
 TSN 3,p3p://fccsen.dyndns.tv:29706/5d45b529000804ebd1b5f9606eef3d87
 TSN 4,p3p://fccsen.dyndns.tv:29706/5d45b59600028129d1b7a1bf71b50a26
 TSN 5,p3p://fccsen.dyndns.tv:29706/5d45b5f9000516c8d1b92521608c3d5d
-SportNet Onario,p3p://fccsen.dyndns.tv:29706/5a91a001000da01d8480975a091c2e97
-SportNet One,p3p://fccsen.dyndns.tv:29706/5a963c9e0005850496844a812ee772e1
-SportNet World,p3p://fccsen.dyndns.tv:29706/5bd63c310006787478800487439a602d
-SportNet 360,p3p://fccsen.dyndns.tv:29706/5a919d78000cca498476aff825dd1e95
+Sportsnet Onario,p3p://fccsen.dyndns.tv:29706/5a91a001000da01d8480975a091c2e97
+Sportsnet One,p3p://fccsen.dyndns.tv:29706/5a963c9e0005850496844a812ee772e1
+Sportsnet World,p3p://fccsen.dyndns.tv:29706/5bd63c310006787478800487439a602d
+Sportsnet 360,p3p://fccsen.dyndns.tv:29706/5a919d78000cca498476aff825dd1e95
 SportsNet Pacific,p3p://fccsen.dyndns.tv:29706/5a010fe5000bffa64fcea5b471a63932
-Sky Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf34800086cb2563b24f202e31678
-Sky Sport 2,p3p://fccsen.dyndns.tv:29706/59bbf35f000c9fdb563b7fde3a4d1307
-Sky Sport 3,p3p://fccsen.dyndns.tv:29706/59bbf373000890ed563bccf43f3c5b45
-Sky Sport 4,p3p://fccsen.dyndns.tv:29706/59bbf38b00055cc7563c29e26168677c
-Sky Sport 5,p3p://fccsen.dyndns.tv:29706/59bbf3a100017e4d563c7ed4483777f8
-Sky Sport F1,p3p://fccsen.dyndns.tv:29706/59bbf3bc000ad51e563ceab13ecd1b97
-Sky Sp Football,p3p://fccsen.dyndns.tv:29706/5da52b34000c1b45469ab71b318b6093
-Sky Sp Mix,p3p://fccsen.dyndns.tv:29706/5da52b4b0009e11d469b106164071071
-Sky Sp News,p3p://fccsen.dyndns.tv:29706/5da88b06000cd6cd53c9039a2e9d468e
+Sky Sports 1,p3p://fccsen.dyndns.tv:29706/59bbf34800086cb2563b24f202e31678
+Sky Sports 2,p3p://fccsen.dyndns.tv:29706/59bbf35f000c9fdb563b7fde3a4d1307
+Sky Sports 3,p3p://fccsen.dyndns.tv:29706/59bbf373000890ed563bccf43f3c5b45
+Sky Sports 4,p3p://fccsen.dyndns.tv:29706/59bbf38b00055cc7563c29e26168677c
+Sky Sports 5,p3p://fccsen.dyndns.tv:29706/59bbf3a100017e4d563c7ed4483777f8
+Sky Sports F1,p3p://fccsen.dyndns.tv:29706/59bbf3bc000ad51e563ceab13ecd1b97
+Sky Sports Football,p3p://fccsen.dyndns.tv:29706/5da52b34000c1b45469ab71b318b6093
+Sky Sports Mix,p3p://fccsen.dyndns.tv:29706/5da52b4b0009e11d469b106164071071
+Sky Sports News,p3p://fccsen.dyndns.tv:29706/5da88b06000cd6cd53c9039a2e9d468e
 BT Sport 1,p3p://fccsen.dyndns.tv:29706/59d2486d0006b186ad7787092c1d60d5
 BT Sport 2,p3p://fccsen.dyndns.tv:29706/59c67e480005fd5b7f6a09dd58e05390
 BT Sport 3,p3p://fccsen.dyndns.tv:29706/59c67ea30007574b7f6b6dad749b5b27
@@ -2039,19 +2039,19 @@ LongHorn Network,p3p://fccsen.dyndns.tv:29706/5bc2b10500008a6d2c2888161d4270ba
 Euro Sport 1,p3p://fccsen.dyndns.tv:29706/5a21d4d80004d603cfcfc43c12066d47
 Euro Sport 2,p3p://fccsen.dyndns.tv:29706/5a21d4ed00032238cfd015d5794173ae
 MUTV,p3p://fccsen.dyndns.tv:29706/5f7b32e5000e762d6a11bc6c06985c05
-Bein Sport 1,p3p://fccsen.dyndns.tv:29706/5a1f68cc00061b05c659b5aa2f9847d2
-Bein Sport 2,p3p://fccsen.dyndns.tv:29706/5a1f68e5000d96d2c65a193c00820b97
-Bein Sport 3,p3p://fccsen.dyndns.tv:29706/5a1f68fb000eb809c65a6f77129c27b7
-Bein Sport 4,p3p://fccsen.dyndns.tv:29706/5a1f69110000604ec65ac1bb33b85661
-Bein Sport 5,p3p://fccsen.dyndns.tv:29706/5a1f692c0002560ec65b2bb32e51613a
-Bein Sport 6,p3p://fccsen.dyndns.tv:29706/5a1f6942000115e4c65b81511ddf34a7
-Bein Sport 7,p3p://fccsen.dyndns.tv:29706/5a1f6957000a184ac65bd5a807cf26bc
-Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
-Bein Sport Prem 2,p3p://fccsen.dyndns.tv:29706/5a1f698100081e53c65c793717150202
-Bein Sport Prem 3,p3p://fccsen.dyndns.tv:29706/a1f69970005708ac65cce77777239ce
-Bein Sport En 1,p3p://fccsen.dyndns.tv:29706/5a1f69ad0007ff61c65d250f47281dca
-Bein Sport En 2,p3p://fccsen.dyndns.tv:29706/5ef11e1f000008b04eb1290024910156
-Bein Sport En 3,p3p://fccsen.dyndns.tv:29706/5d5f29ac0006d5de3524f92c68f87d9
+Bein Sports 1,p3p://fccsen.dyndns.tv:29706/5a1f68cc00061b05c659b5aa2f9847d2
+Bein Sports 2,p3p://fccsen.dyndns.tv:29706/5a1f68e5000d96d2c65a193c00820b97
+Bein Sports 3,p3p://fccsen.dyndns.tv:29706/5a1f68fb000eb809c65a6f77129c27b7
+Bein Sports 4,p3p://fccsen.dyndns.tv:29706/5a1f69110000604ec65ac1bb33b85661
+Bein Sports 5,p3p://fccsen.dyndns.tv:29706/5a1f692c0002560ec65b2bb32e51613a
+Bein Sports 6,p3p://fccsen.dyndns.tv:29706/5a1f6942000115e4c65b81511ddf34a7
+Bein Sports 7,p3p://fccsen.dyndns.tv:29706/5a1f6957000a184ac65bd5a807cf26bc
+Bein Sports Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
+Bein Sports Prem 2,p3p://fccsen.dyndns.tv:29706/5a1f698100081e53c65c793717150202
+Bein Sports Prem 3,p3p://fccsen.dyndns.tv:29706/a1f69970005708ac65cce77777239ce
+Bein Sports En 1,p3p://fccsen.dyndns.tv:29706/5a1f69ad0007ff61c65d250f47281dca
+Bein Sports En 2,p3p://fccsen.dyndns.tv:29706/5ef11e1f000008b04eb1290024910156
+Bein Sports En 3,p3p://fccsen.dyndns.tv:29706/5d5f29ac0006d5de3524f92c68f87d9
 SuperSport Grandstand,p3p://fccsen.dyndns.tv:29706/5dbc731200013b91a18b6503780f38d0
 SuperSport PSL,p3p://fccsen.dyndns.tv:29706/5dbc73ba000d158aa18df84d33bd4bff
 SuperSport Pre League,p3p://fccsen.dyndns.tv:29706/5dbc73d500049208a18e5f9739337dfd
@@ -2070,14 +2070,14 @@ SuperSport Tennis,p3p://fccsen.dyndns.tv:29706/6054ca0c000ad56fbc07eed506db110e
 SuperSport Blitz,p3p://fccsen.dyndns.tv:29706/5dbc74fe0008c0d2a192e8d33c6f6d51
 Willow,p3p://fccsen.dyndns.tv:29706/5a543545000aaa9994980d951f4c2f9e
 Ten Cricket,p3p://fccsen.dyndns.tv:29706/5bd26cbb000905b1699da03b0639484d
-Sony Six,p3p://fccsen.dyndns.tv:29706/5c50d53f000e5e5b152bc745689b1314
-Sony Sport 1,p3p://fccsen.dyndns.tv:29706/5c51efc90002ddfa197b6f6c0ab13797
-Sony Sport 2,p3p://fccsen.dyndns.tv:29706/5df15ff80000a3567048b32252e81d0d
-Sony Sport 3,p3p://fccsen.dyndns.tv:29706/5df16034000b13a17049a02e74d65fb6
-Star Sport 1,p3p://fccsen.dyndns.tv:29706/5c51f015000da131197c9b0e3693674d
-Star Sport 2,p3p://fccsen.dyndns.tv:29706/5c51f03100032ff1197d05c12f5e3263
-StarSportsSelect 1,p3p://fccsen.dyndns.tv:29706/5c51f049000813ac197d64c230595e26
-StarSportsSelect 2,p3p://fccsen.dyndns.tv:29706/5c51f0630000c718197dc8746136750f
+Sony SAB,p3p://fccsen.dyndns.tv:29706/5c50d53f000e5e5b152bc745689b1314
+Sony Sports 1,p3p://fccsen.dyndns.tv:29706/5c51efc90002ddfa197b6f6c0ab13797
+Sony Sports 2,p3p://fccsen.dyndns.tv:29706/5df15ff80000a3567048b32252e81d0d
+Sony Sports 3,p3p://fccsen.dyndns.tv:29706/5df16034000b13a17049a02e74d65fb6
+Star Sports 1,p3p://fccsen.dyndns.tv:29706/5c51f015000da131197c9b0e3693674d
+Star Sports 2,p3p://fccsen.dyndns.tv:29706/5c51f03100032ff1197d05c12f5e3263
+Star Sports Select 1,p3p://fccsen.dyndns.tv:29706/5c51f049000813ac197d64c230595e26
+Star Sports Select 2,p3p://fccsen.dyndns.tv:29706/5c51f0630000c718197dc8746136750f
 CBC,p3p://fccsen.dyndns.tv:29706/5c3412810003a9caa4d30e633b2f3d2c
 CTV,p3p://fccsen.dyndns.tv:29706/59ff88b300051f1c49d6889356bf2b56
 Global Ontario,p3p://fccsen.dyndns.tv:29706/59ee49f4000c19ea06799139438f315d
@@ -2313,7 +2313,7 @@ Rete 4,p3p://fccsen.dyndns.tv:29706/5ce5640c0009c88a5979783666a766b6
 Sky Sport MotoGP,p3p://fccsen.dyndns.tv:29706/632924680004b369c9865b8446e26c14
 Sky Sport Football,p3p://fccsen.dyndns.tv:29706/6329271b000e5130c990e9333b502971
 Sky Sport NBA,p3p://fccsen.dyndns.tv:29706/632927fa0008e670c9944ee718793acf
-Sky Sports Golf,p3p://fccsen.dyndns.tv:29706/635b4acd000ce1ed8d6c360018c45953
+Sky Sport Golf,p3p://fccsen.dyndns.tv:29706/635b4acd000ce1ed8d6c360018c45953
 TV 5 Monde,p3p://fccsen.dyndns.tv:29706/59e2372a00027fafebb4062e1f3d7af5
 TF1,p3p://fccsen.dyndns.tv:29706/59c6a37d00095b957ffb61bf7a9f3466
 M6,p3p://fccsen.dyndns.tv:29706/59c6cf64000d88e280a6e12e61086600
