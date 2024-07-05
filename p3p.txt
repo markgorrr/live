@@ -1981,7 +1981,7 @@ UEFA English,p3p://108.181.32.169:34159/66683f3d00034a1ce13669356af172b6
 UEFA Contonese,p3p://108.181.32.169:34159/66683e4c000c7fd6e132be2775dc56b2 
 UEFA Contonese688,p3p://108.181.32.169:34159/666bf7e20007ad58efbfaed845992b0e
 
-dyndnstv,#genre# 
+Dyndns,#genre# 
 MTV live,p3p://fccsen.dyndns.tv:29706/59adf63f00089a1e1f96cf6523872643
 CNN International,p3p://fccsen.dyndns.tv:29706/5a20bffb0002906acb96445d76975880
 Beinsport FR1,p3p://fccsen.dyndns.tv:29706/5ef28d5e000ea60a544bbad142d06817
