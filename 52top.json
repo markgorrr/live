@@ -8,6 +8,7 @@
       "name": "🐯江苏移动魔百盒TPTV",
       "url": "http://xg.52sw.top:5000/tptv.m3u",
       "ua": "okhttp/3.12.0"
+      "referer": "http://tptv.mobaibox.com"
     },
     {
       "name": "🐯央视频",
