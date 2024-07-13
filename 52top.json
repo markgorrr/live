@@ -1,0 +1,32 @@
+{
+  "lives": [
+    {
+      "name": "🐯四季線上4gTV",
+      "url": "http://xg.52sw.top:5000/4gtv.m3u"
+    },
+    {
+      "name": "🐯江苏移动魔百盒TPTV",
+      "url": "http://xg.52sw.top:5000/tptv.m3u"
+    },
+    {
+      "name": "🐯央视频",
+      "url": "http://xg.52sw.top:5000/ysp.m3u"
+    },
+    {
+      "name": "🐯myTV SUPER",
+      "url": "http://xg.52sw.top:5000/mytvsuper.m3u"
+    },
+    {
+      "name": "🐯Beesport",
+      "url": "http://xg.52sw.top:5000/beesport.m3u"
+    },
+    {
+      "name": "🐯中国移动iTV",
+      "url": "http://xg.52sw.top:5000/itv.m3u"
+    },
+    {
+      "name": "🐯四川广电蜀小果",
+      "url": "http://xg.52sw.top:5000/sxg.m3u"
+    }
+  ]
+}
