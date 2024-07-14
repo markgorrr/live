@@ -6,11 +6,7 @@
     },
     {
       "name": "江苏移动魔百盒TPTV",
-      "url": "http://xg.52sw.top:5000/tptv.m3u",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OkHttp/3.14.9",
-        "Referer": "http://ott.mobaibox.com/"
-      }
+      "url": "http://xg.52sw.top:5000/tptv.m3u"
     },
     {
       "name": "央视频",
@@ -31,6 +27,22 @@
     {
       "name": "四川广电蜀小果",
       "url": "http://xg.52sw.top:5000/sxg.m3u"
+    },
+    {
+      "name": "重庆有线",
+      "url": "http://www.52sw.top:678/play/cqtv.php?output=channel_list"
+    },
+    {
+      "name": "斯玛特",
+      "url": "https://fm1077.serv00.net/SmartTV.m3u"
+    },
+    {
+      "name": "安博",
+      "url": "https://fm1077.serv00.net/anbo"
+    },
+    {
+      "name": "LiTV線上影視",
+      "url": "https://fm1077.serv00.net/litv.txt"
     }
   ]
 }
