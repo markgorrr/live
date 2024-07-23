@@ -1,43 +1,43 @@
 {
   "lives": [
     {
-      "name": "四季線上4gTV",
+      "name": "52top 四季線上4gTV",
       "url": "http://xg.52sw.top:5000/4gtv.m3u"
     },
     {
-      "name": "江苏移动魔百盒TPTV",
+      "name": "52top 江苏移动魔百盒TPTV",
       "url": "http://xg.52sw.top:5000/tptv.m3u"
     },
     {
-      "name": "央视频",
+      "name": "52top 央视频",
       "url": "http://xg.52sw.top:5000/ysp.m3u"
     },
     {
-      "name": "myTV SUPER",
+      "name": "52top myTV SUPER",
       "url": "http://xg.52sw.top:5000/mytvsuper.m3u"
     },
     {
-      "name": "Beesport",
+      "name": "52top Beesport",
       "url": "http://xg.52sw.top:5000/beesport.m3u"
     },
     {
-      "name": "中国移动iTV",
+      "name": "52top 中国移动iTV",
       "url": "http://xg.52sw.top:5000/itv.m3u"
     },
     {
-      "name": "四川广电蜀小果",
+      "name": "52top 四川广电蜀小果",
       "url": "http://xg.52sw.top:5000/sxg.m3u"
     },
     {
-      "name": "斯玛特",
+      "name": "52top 斯玛特",
       "url": "https://fm1077.serv00.net/SmartTV.m3u"
     },
     {
-      "name": "安博",
+      "name": "52top 安博",
       "url": "https://fm1077.serv00.net/anbo"
     },
     {
-      "name": "LiTV線上影視",
+      "name": "52top LiTV線上影視",
       "url": "https://fm1077.serv00.net/litv.txt"
     },
     {
