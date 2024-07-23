@@ -39,6 +39,22 @@
     {
       "name": "LiTV線上影視",
       "url": "https://fm1077.serv00.net/litv.txt"
+    },
+    {
+      "name": "YanG-1989 Gather",
+      "url": "https://tv.iill.top/m3u/Gather"
+    },
+    {
+      "name": "YanG-1989 MyTV",
+      "url": "https://tv.iill.top/m3u/MyTV"
+    },
+    {
+      "name": "YanG-1989 Sport",
+      "url": "https://tv.iill.top/m3u/Sport"
+    },
+    {
+      "name": "stream-link",
+      "url": "https://www.stream-link.org/stream-link.m3u"
     }
   ]
 }
