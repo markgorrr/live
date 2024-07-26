@@ -25,20 +25,8 @@
       "url": "http://xg.52sw.top:5000/itv.m3u"
     },
     {
-      "name": "52TOP 四川广电蜀小果",
-      "url": "http://xg.52sw.top:5000/sxg.m3u"
-    },
-    {
-      "name": "52TOP 斯玛特",
-      "url": "https://fm1077.serv00.net/SmartTV.m3u"
-    },
-    {
-      "name": "52TOP 安博",
-      "url": "https://fm1077.serv00.net/anbo"
-    },
-    {
-      "name": "52TOP LiTV線上影視",
-      "url": "https://fm1077.serv00.net/litv.txt"
+      "name": "52TOP TheTV",
+      "url": "http://xg.52sw.top:5000/thetv.m3u"
     },
     {
       "name": "YanG-1989 Gather",
