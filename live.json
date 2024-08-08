@@ -27,15 +27,19 @@
     {
       "name": "TheTV",
       "url": "http://95.179.139.113:5566/thetv.m3u"
-    },
+    },   
     {
       "name": "IPTV组播",
-      "url": "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo.txt"
+      "url": "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "湖北宜昌电信组播",
-      "url": "https://raw.githubusercontent.com/junior2024-CN/iptv/main/YCDX.txt"
-    },
+      "name": "宜昌电信组播",
+      "url": "https://raw.githubusercontent.com/junior2024-CN/iptv/main/YCDX.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },    
     {
       "name": "YanG-1989 Gather",
       "url": "https://tv.iill.top/m3u/Gather"
