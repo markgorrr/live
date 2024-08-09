@@ -29,7 +29,7 @@
       "url": "http://95.179.139.113:5566/thetv.m3u"
     },   
     {
-      "name": "各省电信联通组播",
+      "name": "IPTV组播",
       "url": "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -41,7 +41,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },    
     {
-      "name": "YanG-1989 Gather",
+      "name": "YanG-1989",
       "url": "https://tv.iill.top/m3u/Gather"
     },
     {
