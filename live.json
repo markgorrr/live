@@ -29,7 +29,7 @@
       "url": "http://95.179.139.113:5566/thetv.m3u"
     },   
     {
-      "name": "IPTV组播",
+      "name": "各省电信联通组播",
       "url": "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -47,6 +47,10 @@
     {
       "name": "Stream-link",
       "url": "https://www.stream-link.org/stream-link.m3u"
+    },
+    {
+      "name": "唐三Smartv",
+      "url": "https://tang.hz.cz/zb/stv?token=a797e28e"
     },
     {
       "name": "Samsung TV Plus",
