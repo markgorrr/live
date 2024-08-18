@@ -2,40 +2,40 @@
   "lives": [
     {
       "name": "四季線上4gTV",
-      "url": "http://95.179.139.113:5566/4gtv.m3u"
+      "url": "http://47.239.245.207:5050/4gtv.m3u"
     },
     {
       "name": "江苏移动魔百盒TPTV",
-      "url": "http://95.179.139.113:5566/tptv.m3u"
+      "url": "http://47.239.245.207:5050/tptv.m3u"
     },
     {
       "name": "央视频",
-      "url": "http://95.179.139.113:5566/ysp.m3u"
+      "url": "http://47.239.245.207:5050/ysp.m3u"
     },
     {
       "name": "myTV SUPER",
-      "url": "http://95.179.139.113:5566/mytvsuper.m3u"
+      "url": "http://47.239.245.207:5050/mytvsuper.m3u"
     },
     {
       "name": "Beesport",
-      "url": "http://95.179.139.113:5566/beesport.m3u"
+      "url": "http://47.239.245.207:5050/beesport.m3u"
     },
     {
       "name": "中国移动iTV",
-      "url": "http://95.179.139.113:5566/itv.m3u"
+      "url": "http://47.239.245.207:5050/itv.m3u"
     },
     {
       "name": "TheTV",
-      "url": "http://95.179.139.113:5566/thetv.m3u"
+      "url": "http://47.239.245.207:5050/thetv.m3u"
     },   
     {
-      "name": "IPTV组播",
+      "name": "各地IPTV组播",
       "url": "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "宜昌电信",
+      "name": "宜昌电信组播",
       "url": "https://raw.githubusercontent.com/junior2024-CN/iptv/main/YCDX.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -49,8 +49,8 @@
       "url": "https://www.stream-link.org/stream-link.m3u"
     },
     {
-      "name": "唐三Smartv",
-      "url": "https://tang.hz.cz/zb/stv?token=a797e28e"
+      "name": "Smartv",
+      "url": "https://t4.doube.eu.org/smt.txt"
     },
     {
       "name": "Samsung TV Plus",
