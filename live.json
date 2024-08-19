@@ -29,13 +29,13 @@
       "url": "http://95.179.139.113:5566/thetv.m3u"
     },   
     {
-      "name": "电信联通IPTV组播",
+      "name": "IPTV组播",
       "url": "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "宜昌电信IPTV组播",
+      "name": "宜昌电信",
       "url": "https://raw.githubusercontent.com/junior2024-CN/iptv/main/YCDX.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -60,12 +60,6 @@
       "name": "anbox118",
       "url": "https://anbox118.serv00.net/iptv.php"
     },
-    {
-      "name": "唐三ETH(JS)",
-      "type": 3,
-      "url": "https://tang.hz.cz/js/ethtv.js",
-      "ua": "okhttp/4.12.0"
-    },   
     {
       "name": "Samsung TV Plus",
       "url": "https://i.mjh.nz/SamsungTVPlus/all.m3u8"
