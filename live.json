@@ -42,7 +42,9 @@
     }, 
     {
       "name": "武汉电信",
-      "url": "https://raw.githubusercontent.com/goldenwuhan/ysc/master/whdx.m3u"
+      "url": "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/txt/fofa_Hubei_90.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
     {
       "name": "YanG-1989",
