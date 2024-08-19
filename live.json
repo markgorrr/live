@@ -41,6 +41,10 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
     {
+      "name": "武汉电信",
+      "url": "https://raw.githubusercontent.com/goldenwuhan/ysc/master/whdx.m3u"
+    }, 
+    {
       "name": "YanG-1989",
       "url": "https://tv.iill.top/m3u/Gather"
     },
@@ -49,8 +53,8 @@
       "url": "https://www.stream-link.org/stream-link.m3u"
     },
     {
-      "name": "epgpw",
-      "url": "https://freetv.fun/test_channels_all.m3u"
+      "name": "epg台灣",
+      "url": "https://freetv.fun/test_channels_taiwan.m3u"
     }, 
     {
       "name": "tv543",
