@@ -63,8 +63,8 @@
     {
       "name": "唐三ETH(JS)",
       "type": 3,
-      "url": "https://tang.hz.cz/js/ethtv.js"
-      "ua": "okhttp/4.12.0",
+      "url": "https://tang.hz.cz/js/ethtv.js",
+      "ua": "okhttp/4.12.0"
     },   
     {
       "name": "Samsung TV Plus",
