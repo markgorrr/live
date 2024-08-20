@@ -30,7 +30,7 @@
     },   
     {
       "name": "IPTV组播",
-      "url": "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo.txt",
+      "url": "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
