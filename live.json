@@ -59,6 +59,10 @@
       "url": "https://freetv.fun/test_channels_taiwan.m3u"
     }, 
     {
+      "name": "epg香港",
+      "url": "https://freetv.fun/test_channels_hong_kong.m3u"
+    }, 
+    {
       "name": "tv543",
       "url": "https://tv543.cc/list.php"
     }, 
