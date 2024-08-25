@@ -5,24 +5,8 @@
       "url": "http://95.179.139.113:5566/4gtv.m3u"
     },
     {
-      "name": "江苏移动魔百盒TPTV",
-      "url": "http://95.179.139.113:5566/tptv.m3u"
-    },
-    {
-      "name": "央视频",
-      "url": "http://95.179.139.113:5566/ysp.m3u"
-    },
-    {
-      "name": "myTV SUPER",
-      "url": "http://95.179.139.113:5566/mytvsuper.m3u"
-    },
-    {
       "name": "Beesport",
       "url": "http://95.179.139.113:5566/beesport.m3u"
-    },
-    {
-      "name": "中国移动iTV",
-      "url": "http://95.179.139.113:5566/itv.m3u"
     },
     {
       "name": "TheTV",
@@ -34,12 +18,6 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "宜昌电信",
-      "url": "https://raw.githubusercontent.com/junior2024-CN/iptv/main/YCDX.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }, 
     {
       "name": "武汉电信",
       "url": "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/txt/fofa_Hubei_90.txt",
