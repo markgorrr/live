@@ -230,14 +230,3 @@ NewTV黑莓动画,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 居家购物,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
 家家购物,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226065/index.m3u8
 优购物,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226068/index.m3u8
-
-海外,#genre#
-NTD美東台,https://live.ntdtv.com/live900/playlist.m3u8
-NTD美西台,https://live.ntdtv.com/uwlive990/playlist.m3u8
-NTD歐洲台,https://live.ntdtv.com/eulive600/playlist.m3u8
-NTD加東台,https://live.ntdtv.com/mllive860/playlist.m3u8
-NTD加西台,https://live.ntdtv.com/cwlive220/playlist.m3u8
-NTD舊金山台,https://live.ntdtv.com/sflive990/playlist.m3u8
-NTD休斯頓台,https://live.ntdtv.com/htlive480/playlist.m3u8
-NTD亞太台,https://live.ntdtv.com/aplive200/playlist.m3u8
-NTD中國台,https://live.ntdtv.com/cnlive900/playlist.m3u8
