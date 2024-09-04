@@ -1,7 +1,7 @@
 {
   "lives": [
     {
-      "name": "四季線上4gTV",
+      "name": "4gTV",
       "url": "http://95.179.139.113:5566/4gtv.m3u"
     },
     {
@@ -17,12 +17,6 @@
       "url": "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "武汉电信",
-      "url": "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/txt/fofa_Hubei_90.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
     {
       "name": "YanG-1989",
@@ -33,16 +27,16 @@
       "url": "https://www.stream-link.org/stream-link.m3u"
     },
     {
-      "name": "epg全部",
-      "url": "https://freetv.fun/test_channels_all.m3u"
-    }, 
-    {
-      "name": "epg非中国",
-      "url": "https://freetv.fun/test_channels_banned_cn.m3u"
-    }, 
+      "name": "epg台灣",
+      "url": "https://freetv.fun/test_channels_taiwan.m3u"
+    },  
     {
       "name": "tv543",
       "url": "https://tv543.cc/list.php"
+    }, 
+    {
+      "name": "ubtv",
+      "url": "https://files.catbox.moe/g4zbng.json"
     }, 
     {
       "name": "anbox118",
