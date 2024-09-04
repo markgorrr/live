@@ -33,12 +33,12 @@
       "url": "https://www.stream-link.org/stream-link.m3u"
     },
     {
-      "name": "epg台灣",
-      "url": "https://freetv.fun/test_channels_taiwan.m3u"
+      "name": "epg全部",
+      "url": "https://freetv.fun/test_channels_all.m3u"
     }, 
     {
-      "name": "epg香港",
-      "url": "https://freetv.fun/test_channels_hong_kong.m3u"
+      "name": "epg非中国",
+      "url": "https://freetv.fun/test_channels_banned_cn.m3u"
     }, 
     {
       "name": "tv543",
@@ -47,10 +47,6 @@
     {
       "name": "anbox118",
       "url": "https://anbox118.serv00.net/iptv.php"
-    },
-    {
-      "name": "Samsung TV Plus",
-      "url": "https://i.mjh.nz/SamsungTVPlus/all.m3u8"
-    }    
+    }   
   ]
 }
