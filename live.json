@@ -13,17 +13,27 @@
       "url": "https://www.stream-link.org/stream-link.m3u"
     },
     {
-      "name": "FREE EPG",
-      "url": "https://freetv.fun/test_channels_taiwan.m3u"
-    },  
+      "name": "EPG台灣",
+      "url": "https://freetv.fun/test_channels_taiwan.txt"
+    },    
+    {
+      "name": "smart",
+      "url": "https://raw.githubusercontent.com/shawn82/fm/refs/heads/main/lib/smart.txt"
+    }, 
     {
       "name": "wolfcode9",
       "url": "https://raw.githubusercontent.com/wolfcode9/d25d221074c7b34d/refs/heads/main/d3ef48d76c053b24/6df8af2d858ae0c4"
-    },  
+    },
     {
-      "name": "SmartTV",
-      "url": "https://raw.githubusercontent.com/KAN314go/A/refs/heads/main/tv/SmartTV%20.txt"
-    }, 
+      "name": "YanG-1989",
+      "url": "https://tv.iill.top/m3u/Gather",
+      "ua": "okhttp/4.12.0"
+    },
+    {
+      "name": "MoveOnJoy",
+      "url": "https://bit.ly/moj-m3u8",
+      "epg": "https://bit.ly/moj-epg"    
+    },
     {
       "name": "YCDX",
       "url": "https://raw.githubusercontent.com/junior2024-CN/ott/refs/heads/main/YCDX.txt"
