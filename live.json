@@ -26,13 +26,12 @@
     },
     {
       "name": "YanG-1989",
-      "url": "https://tv.iill.top/m3u/Gather",
-      "ua": "okhttp/4.12.0"
+      "url": "https://tv.iill.top/m3u/Gather"
     },
     {
       "name": "MoveOnJoy",
       "url": "https://bit.ly/moj-m3u8",
-      "epg": "https://bit.ly/moj-epg"    
+      "epg": "https://bit.ly/moj-epg/?ch={name}&date={date}"    
     },
     {
       "name": "YCDX",
