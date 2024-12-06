@@ -23,8 +23,7 @@
     },
     {
       "name": "lem pixman",
-      "url": "https://tv.850930.xyz/pix.m3u",
-      "ua": "okhttp/3.12.0"
+      "url": "https://tv.850930.xyz/pix.m3u"
     },
     {
       "name": "EPG 台灣",
@@ -32,7 +31,8 @@
     },    
     {
       "name": "smart",
-      "url": "https://raw.githubusercontent.com/shawn82/fm/refs/heads/main/lib/smart.txt"
+      "url": "https://raw.githubusercontent.com/shawn82/fm/refs/heads/main/lib/smart.txt",
+      "ua": "okhttp/4.12.0"
     }, 
     {
       "name": "extraott",
