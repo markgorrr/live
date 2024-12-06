@@ -10,14 +10,6 @@
       "ua": "okhttp/4.12.0"
     },
     {
-      "name": "沐辰 litv",
-      "url": "https://json.doube.eu.org/live/tw/Sub.php"  
-    },
-    {
-      "name": "树树 ln",
-      "url": "http://cqitv.fh4u.org/iptv/liaoning.txt"  
-    },
-    {
       "name": "AKTV",
       "url": "http://aktv.top/live.m3u"
     },
@@ -31,13 +23,8 @@
     },    
     {
       "name": "smart",
-      "url": "https://raw.githubusercontent.com/shawn82/fm/refs/heads/main/lib/smart.txt",
-      "ua": "okhttp/4.12.0"
-    }, 
-    {
-      "name": "extraott",
-      "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/extraott"
-    }, 
+      "url": "https://raw.githubusercontent.com/shawn82/fm/refs/heads/main/lib/smart.txt"
+    },  
     {
       "name": "大老虎咬毛巾",
       "url": "https://raw.githubusercontent.com/wolfcode9/d25d221074c7b34d/refs/heads/main/d3ef48d76c053b24/6df8af2d858ae0c4"
