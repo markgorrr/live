@@ -1,0 +1,13 @@
+新唐人美東台,https://live.ntdtv.com/live900/playlist.m3u8 
+新唐人美西台,https://live.ntdtv.com/uwlive990/playlist.m3u8   
+新唐人加東台,https://live.ntdtv.com/mllive860/playlist.m3u8
+新唐人加西台,https://live.ntdtv.com/cwlive220/playlist.m3u8
+新唐人亞太台,https://live.ntdtv.com/aplive200/playlist.m3u8
+新唐人中國台,https://live.ntdtv.com/cnlive900/playlist.m3u8
+美國之音,https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+自由亞洲電台,https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
+法國國際廣播電台,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+希望之聲中國廣播臺,https://livecast1.soundofhope.org:2087/soh-live
+希望之聲美國聯播網,https://livecast1.soundofhope.org:2087/bayvoice
+希望之聲粵語臺,https://livecast1.soundofhope.org:2087/SF969
+希望之聲澳洲臺,https://livecast1.soundofhope.org:2087/SYDNEY
