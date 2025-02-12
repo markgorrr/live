@@ -10,7 +10,7 @@
       "type": 3,
       "ua": "okhttp/4.12.0"
     },
-   {
+    {
       "name": "YanG-1989",
       "url": "https://tv.iill.top/m3u/Gather",
       "ua": "okhttp/4.12.0"
@@ -20,7 +20,7 @@
       "url": "https://freetv.fun/test_channels_taiwan.txt"
     },     
     {
-      "name": "星火",
+      "name": "XingHuo",
       "url": "https://json.doube.eu.org/XingHuo.txt",
       "header": {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
