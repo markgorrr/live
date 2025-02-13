@@ -5,12 +5,6 @@
       "url": "https://tv543.cc/list.php"
     }, 
     {
-      "name": "ETH",
-      "api": "https://tv543.cc/ethtv.js",
-      "type": 3,
-      "ua": "okhttp/4.12.0"
-    },
-    {
       "name": "IPTV研究所",
       "type": 0,
       "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248",
@@ -26,24 +20,7 @@
       "name": "YanG-1989",
       "url": "https://tv.iill.top/m3u/Gather",
       "ua": "okhttp/4.12.0"
-    },
-    {
-      "name": "RobYang",
-      "url": "http://www1.RobYang.rr.nu/VodLive/lb8ffa",
-      "ua": "okhttp/4.12.0", 
-      "ext":{"header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR": "127.0.0.1"}},
-      "timeout": 5,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "FREE EPG",
-      "url": "https://freetv.fun/test_channels_taiwan.txt"
-    },  
-    {
-      "name": "天天开心",
-      "url": "http://rihou.cc:555/gggg.nzk"
-    },       
+    },     
     {
       "name": "XingHuo",
       "url": "https://json.doube.eu.org/XingHuo.txt",
@@ -52,6 +29,14 @@
         "referer": "https://www.kds.tw/"
       }
     },
+    {
+      "name": "FREE EPG",
+      "url": "https://freetv.fun/test_channels_taiwan.txt"
+    },  
+    {
+      "name": "天天开心",
+      "url": "http://rihou.cc:555/gggg.nzk"
+    },  
     {
       "name": "live",
       "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/live.txt"
