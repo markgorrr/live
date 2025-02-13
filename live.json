@@ -11,6 +11,24 @@
       "ua": "okhttp/4.12.0"
     },
     {
+      "name": "IPTV研究所",
+      "type": 0,
+      "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=819465378125437",
+      "playerType": 1
+    },
+    {
+      "name" : "Stream-link",
+      "type" : 0,
+      "url" : "https://www.stream-link.org/playlist.m3u?token=e50bb3b0-6882-47f6-8bb8-e13afe0d0649&hmac=b88752ea4e53b483ad2739d89f1d8a8b", 
+      "playerType" : 1
+    },
+    {
+      "name": "一盒",
+      "type": 0,
+      "url": "http://tv.anbox118.workers.dev/live",
+      "playerType": 1
+    },
+    {
       "name": "YanG-1989",
       "url": "https://tv.iill.top/m3u/Gather",
       "ua": "okhttp/4.12.0"
@@ -18,7 +36,11 @@
     {
       "name": "FREE EPG",
       "url": "https://freetv.fun/test_channels_taiwan.txt"
-    },     
+    },  
+    {
+      "name": 开心直播",
+      "url": "http://rihou.cc:555/gggg.nzk"
+    },       
     {
       "name": "XingHuo",
       "url": "https://json.doube.eu.org/XingHuo.txt",
@@ -28,7 +50,7 @@
       }
     },
     {
-      "name": "LIVE",
+      "name": "live",
       "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/live.txt"
     }
   ]
