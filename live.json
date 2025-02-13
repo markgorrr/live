@@ -23,10 +23,8 @@
       "playerType" : 1
     },
     {
-      "name": "一盒",
-      "type": 0,
-      "url": "http://tv.anbox118.workers.dev/live",
-      "playerType": 1
+      "name": "Anbox",
+      "url": "https://anbox118.us.kg/live",
     },
     {
       "name": "YanG-1989",
@@ -34,11 +32,16 @@
       "ua": "okhttp/4.12.0"
     },
     {
+      "name": "RobYang",
+      "url": "http://www1.RobYang.rr.nu/VodLive/lb8ffa",
+      "ua": "okhttp/4.12.0"
+    },
+    {
       "name": "FREE EPG",
       "url": "https://freetv.fun/test_channels_taiwan.txt"
     },  
     {
-      "name": 开心直播",
+      "name": "TTKX",
       "url": "http://rihou.cc:555/gggg.nzk"
     },       
     {
