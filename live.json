@@ -26,11 +26,11 @@
       "url": "https://freetv.fun/test_channels_taiwan.txt"
     },  
     {
-      "name": "天天开心",
-      "url": "http://rihou.cc:555/gggg.nzk"
+      "name": "Smartv",
+      "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/smartv.txt"
     },  
     {
-      "name": "mylive",
+      "name": "My Live",
       "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/mylive.txt"
     }
   ]
