@@ -26,11 +26,11 @@
       "url": "https://freetv.fun/test_channels_taiwan.txt"
     },  
     {
-      "name": "Smartv",
-      "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/smartv.txt"
+      "name": "smt",
+      "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/smt.txt"
     },  
     {
-      "name": "My Live",
+      "name": "mylive",
       "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/mylive.txt"
     }
   ]
