@@ -7,7 +7,7 @@
     {
       "name": "IPTV研究所",
       "type": 0,
-      "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248",
+      "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=623374676481360",
       "playerType": 1
     },
     {
@@ -15,15 +15,23 @@
       "type" : 0,
       "url" : "https://www.stream-link.org/playlist.m3u?token=e50bb3b0-6882-47f6-8bb8-e13afe0d0649&hmac=b88752ea4e53b483ad2739d89f1d8a8b", 
       "playerType" : 1
+    }, 
+    {
+      "name": "HKDVB",
+      "url": "https://live.hkdvb.com/hls/playlist.m3u?token=623374676506428"
+    },
+    {
+      "name": "AKTV 直播源中轉站",
+      "url": "http://aktv.space/live.m3u"
+    },     
+    {
+      "name": "FREE EPG",
+      "url": "https://freetv.fun/test_channels_taiwan.m3u"
     },
     {
       "name": "YanG-1989",
       "url": "https://tv.iill.top/m3u/Gather",
       "ua": "okhttp/4.12.0"
-    },     
-    {
-      "name": "FREE EPG",
-      "url": "https://freetv.fun/test_channels_taiwan.txt"
     },  
     {
       "name": "smt",
