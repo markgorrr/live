@@ -1,6 +1,6 @@
 {
-    "lives": [
-        {
+  "lives": [
+    {
             "name": "itv",
             "type": 0,
             "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/itv.txt",
@@ -10,28 +10,28 @@
             "catchup": {
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        }
-    ],
-    "headers": [
-        {
+      }
+    }
+  ],
+  "headers": [
+    {
             "host": "gslbserv.itv.cmvideo.cn",
             "header": {
                 "User-Agent": "okhttp/3.12.13"
-            }
-        }
-    ],
-    "proxy": [
+      }
+    }
+  ],
+  "proxy": [
         "raw.githubusercontent.com"
-    ],
+  ],
     "hosts": [
-        "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-        "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
-    ],
-    "ads": [
+        "cache.ott.ystenlive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.bestlive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221"
+  ],
+  "ads": [
         "static-mozai.4gtv.tv"
-    ]
+  ]
 }
