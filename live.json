@@ -33,7 +33,7 @@
       }
     },     
     {
-      "name": "epg台灣",
+      "name": "EPG.PW 台灣",
       "url": "https://freetv.fun/test_channels_taiwan.m3u"
     },
     {
@@ -55,7 +55,7 @@
     },  
     {
       "name": "live",
-      "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/mylive.txt"
+      "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/live.txt"
     }
   ]
 }
