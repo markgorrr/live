@@ -90,11 +90,11 @@
     "raw.githubusercontent.com"
   ],
   "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=itv.dns.52top.com.cn",
-    "cache.ott.bestlive.itv.cmvideo.cn=itv.dns.52top.com.cn",
-    "cache.ott.wasulive.itv.cmvideo.cn=itv.dns.52top.com.cn",
-    "cache.ott.fifalive.itv.cmvideo.cn=itv.dns.52top.com.cn",
-    "cache.ott.hnbblive.itv.cmvideo.cn=itv.dns.52top.com.cn"
+    "cache.ott.ystenlive.itv.cmvideo.cn=39.135.97.81",
+    "cache.ott.bestlive.itv.cmvideo.cn=39.135.97.81",
+    "cache.ott.wasulive.itv.cmvideo.cn=39.135.97.81",
+    "cache.ott.fifalive.itv.cmvideo.cn=39.135.97.81",
+    "cache.ott.hnbblive.itv.cmvideo.cn=39.135.97.81"
   ],
   "ads": [
     "static-mozai.4gtv.tv"
