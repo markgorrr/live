@@ -64,10 +64,8 @@
       "ua": "okhttp/3.15"
     },
     {
-      "name": "肥羊bptv",
-      "url": "https://fy.iptv1.ggff.net/?url=http://dsj.motem.top:8880",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "肥羊BPTV",
+      "url": "https://fy.iptv1.ggff.net/?url=http://dsj.motem.top:8880"
     },
     {
       "name": "中國移動ITV",
