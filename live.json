@@ -65,7 +65,8 @@
     },
     {
       "name": "肥羊BPTV",
-      "url": "https://fy.iptv1.ggff.net/?url=http://dsj.motem.top:8880"
+      "url": "https://fy.iptv1.ggff.net/?url=http://dsj.motem.top:8880",
+      "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
     },
     {
       "name": "中國移動ITV",
@@ -94,11 +95,11 @@
     "raw.githubusercontent.com"
   ],
   "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=39.135.97.81",
-    "cache.ott.bestlive.itv.cmvideo.cn=39.135.97.81",
-    "cache.ott.wasulive.itv.cmvideo.cn=39.135.97.81",
-    "cache.ott.fifalive.itv.cmvideo.cn=39.135.97.81",
-    "cache.ott.hnbblive.itv.cmvideo.cn=39.135.97.81"
+    "cache.ott.ystenlive.itv.cmvideo.cn=39.135.132.221",
+    "cache.ott.bestlive.itv.cmvideo.cn=39.135.132.221",
+    "cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
+    "cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
+    "cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221"
   ],
   "ads": [
     "static-mozai.4gtv.tv"
