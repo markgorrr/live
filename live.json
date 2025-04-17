@@ -1,12 +1,10 @@
 {
   "lives": [
     {
-      "name": "Yogurt TV",
+      "name": "優格",
       "type": 1,
       "url": "./yogurttv.txt",
       "ua": "okhttp/3.15",
-      "epg": "https://assets.livednow.com/epg.xml",
-      "logo": "https://assets.livednow.com/{name}.png",
       "core": {
         "auth": "local://tvbus",
         "name": "123",
@@ -22,7 +20,6 @@
       "url": "https://tang.hz.cz/so/xiaoyun.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "ua": "okhttp/4.12.0",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
       "core": {
         "auth": "local://tvbus",
         "name": "123",
@@ -67,7 +64,7 @@
     {
       "name": "肥羊BPTV",
       "url": "https://fy.iptv1.ggff.net/?url=http://dsj.motem.top:8880",
-      "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
       "name": "中國移動ITV",
