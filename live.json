@@ -5,7 +5,8 @@
       "type": 1,
       "url": "./yogurttv.txt",
       "ua": "okhttp/3.15",
-      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
+      "epg": "https://assets.livednow.com/epg.xml",
+      "logo": "https://assets.livednow.com/{name}.png",
       "core": {
         "auth": "local://tvbus",
         "name": "123",
