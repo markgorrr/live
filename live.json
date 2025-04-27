@@ -47,24 +47,24 @@
       "type": 3,
       "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
       "ext": {}
-    },
-    {
-      "name": "tv543",
-      "url": "http://tv543.cc/list.php"
-    },     
+    },  
     {
       "name": "EPG.PW 台灣",
       "url": "https://freetv.fun/test_channels_taiwan.m3u"
     },
     {
-      "name": "YanG-1989",
-      "url": "https://tv.iill.top/m3u/Gather",
-      "ua": "okhttp/3.15"
-    },
+      "name": "P3P",
+      "url": "./p3p.txt"
+    }, 
     {
       "name": "肥羊BPTV",
       "url": "https://fy.iptv1.ggff.net/?url=http://dsj.motem.top:8880",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },  
+    {
+      "name": "YanG-1989",
+      "url": "https://tv.iill.top/m3u/Gather",
+      "ua": "okhttp/3.15"
     },
     {
       "name": "中國移動ITV",
