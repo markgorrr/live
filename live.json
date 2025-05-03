@@ -31,7 +31,7 @@
       }
     },  
     {
-      "name": "AKTV 直播源中轉站",
+      "name": "AKTV Stream",
       "type": 0,
       "url": "http://aktv.space/live.m3u",
       "ua": "okhttp/3.15",
@@ -43,22 +43,24 @@
       }
     },
     {
-      "name": "SMT直播(python)",
+      "name": "SMT直播(python) 1",
       "type": 3,
       "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
       "ext": {}
-    },  
+    }, 
     {
-      "name": "EPG.PW 台灣",
+      "name": "SMT直播(python) 2",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
+      "ext": {}
+    }, 
+    {
+      "name": "EPG.PW台灣",
       "url": "https://freetv.fun/test_channels_taiwan.m3u"
     },
     {
-      "name": "P3P",
-      "url": "./p3p.txt"
-    }, 
-    {
       "name": "肥羊BPTV",
-      "url": "https://fy.iptv1.ggff.net/?url=http://dsj.motem.top:8880",
+      "url": "https://fy.188766.xyz/?url=http://us.199301.xyz:6000",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },  
     {
@@ -66,6 +68,10 @@
       "url": "https://tv.iill.top/m3u/Gather",
       "ua": "okhttp/3.15"
     },
+    {
+      "name": "P3P",
+      "url": "./p3p.txt"
+    }, 
     {
       "name": "中國移動ITV",
       "type": 0,
