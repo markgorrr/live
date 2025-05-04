@@ -37,13 +37,12 @@
       "ext": {}
     }, 
     {
-      "name": "EPG.PW台灣",
-      "url": "https://freetv.fun/test_channels_taiwan.m3u"
+      "name": "肥羊TV",
+      "url": "https://fy.188766.xyz/?url=http://test.smart-more.cn:35455"
     },
     {
-      "name": "肥羊TV",
-      "url": "https://fy.188766.xyz/?url=http://dsj.motem.top:8880",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+      "name": "EPG.PW台灣",
+      "url": "https://freetv.fun/test_channels_taiwan.m3u"
     },  
     {
       "name": "AKTV Stream",
