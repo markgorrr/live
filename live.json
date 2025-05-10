@@ -37,8 +37,8 @@
       "ext": {}
     }, 
     {
-      "name": "肥羊TV",
-      "url": "https://fy.188766.xyz/?url=http://test.smart-more.cn:35455"
+      "name": "yihad168",
+      "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/live.m3u"
     },
     {
       "name": "EPG.PW台灣",
@@ -62,7 +62,11 @@
       "ua": "okhttp/3.15"
     },
     {
-      "name": "OuHua",
+      "name": "肥羊TV",
+      "url": "https://fy.188766.xyz/?url=http://test.smart-more.cn:35455"
+    },
+    {
+      "name": "歐華",
       "url": "./ouhua.txt"
     }, 
     {
