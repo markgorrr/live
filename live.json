@@ -1,6 +1,12 @@
 {
   "lives": [
     {
+      "name": "SMT直播(python)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
+      "ext": {}
+    },
+    {
       "name": "BeeSport直播(python)",
       "type": 3,
       "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_beesport.py",
@@ -10,31 +16,30 @@
       }
     },
     {
-      "name": "SMT直播(python)",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
-      "ext": {}
+      "name": "香港MytvSuper",
+      "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+      "ua": "judy/5.2.1"
     },
     {
-    "name": "香港MytvSuper",
-    "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
-    "ua": "judy/5.2.1"
-    },
-    {
-    "name": "Judy全网订阅",
-    "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u"
-    },
-    {
-      "name": "yihad168",
-      "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u"
-    }, 
-    {
-      "name": "肥羊TV",
-      "url": "https://fy.188766.xyz/?url=http://test.smart-more.cn:35455"
+      "name": "Judy订阅整合",
+      "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+      "ua": "xieanqishisbi/0.0.1"
     },
     {
       "name": "NTDTV",
       "url": "https://raw.githubusercontent.com/omdbsd/iptv/refs/heads/main/ntdtv.m3u"
+    },
+    {
+      "name": "SamsungTV",
+      "url": "https://files.catbox.moe/iyjewg.m3u"
+    },
+    {
+      "name": "PerfectTV",
+      "url": "https://perfecttv.net/PerfecttvFree.m3u"
+    }, 
+    {
+      "name": "肥羊TV",
+      "url": "https://fy.188766.xyz/?url=http://test.smart-more.cn:35455"
     },
     {
       "name": "P2P142",
