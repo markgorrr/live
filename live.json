@@ -1,62 +1,69 @@
 {
   "lives": [
     {
+      "name": "BeeSport直播(python)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_beesport.py",
+      "ext": {},
+      "header": {
+        "Referer": "https://p.m82xg4z0cdbz7.com/"
+      }
+    },
+    {
+      "name": "LITV直播(python)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+      "ext": {}
+    },
+    {
       "name": "SMT直播(python)",
       "type": 3,
       "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
       "ext": {}
-    }, 
+    },
+    {
+    "name": "4GTV - 台湾",
+    "url": "http://docker.livednow.dpdns.org/?type=m3u",
+    "ua": "judy/5.2.1"
+    },
+    {
+    "name": "香港视频 - 安卓",
+    "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+    "ua": "judy/5.2.1"
+    },
+    {
+    "name": "「咪咕」体育",
+    "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
+    "ua": "judy/5.2.1"
+    },
+    {
+    "name": "Judy全网订阅",
+    "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+    "ua": "xieanqishiwoerzi/0.0.1"
+    },
     {
       "name": "yihad168",
       "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u"
     }, 
     {
-      "name": "YanG-1989",
-      "url": "https://tv.iill.top/m3u/Gather",
-      "ua": "okhttp/3.15"
+      "name": "肥羊TV",
+      "url": "https://fy.188766.xyz/?url=http://test.smart-more.cn:35455"
+    },
+    {
+      "name": "NTDTV",
+      "url": "https://raw.githubusercontent.com/omdbsd/iptv/refs/heads/main/ntdtv.m3u"
+    },
+    {
+      "name": "P2P142",
+      "url": "https://tv543.cc/142.txt"
     },
     {
       "name": "肥羊TV",
       "url": "https://fy.188766.xyz/?url=http://test.smart-more.cn:35455"
     },
     {
-      "name": "歐華",
-      "url": "./ouhua.txt"
-    }, 
-    {
-      "name": "中國移動ITV",
-      "type": 0,
-      "url": "./itv.txt",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "replace": "livemode=1,livemode=4", 
-        "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-      }
-    }    
-  ],  
-  "headers": [
-    {
-      "host": "gslbserv.itv.cmvideo.cn",
-      "header": {
-        "User-Agent": "okhttp/3.12.13"
-      }
-    }
-  ],
-  "proxy": [
-    "raw.githubusercontent.com"
-  ],
-  "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=39.135.132.221",
-    "cache.ott.bestlive.itv.cmvideo.cn=39.135.132.221",
-    "cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
-    "cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
-    "cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221"
-  ],
-  "ads": [
-    "static-mozai.4gtv.tv"
+      "name": "歐華IPTV",
+      "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/ouhua.txt"
+    } 
   ]
 }  
