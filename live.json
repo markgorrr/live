@@ -10,11 +10,11 @@
       "ua": "judy/5.2.1"
     },
     {
-      "name": "smt",
-      "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/smt.txt"
+      "name": "catvod-smt",
+      "url": "https://live.catvod.com/tv.m3u"
     }, 
     {
-      "name": "catvod",
+      "name": "catvod-migu",
       "url": "https://iptv.catvod.com/tv.m3u"    
     }, 
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "HKTV",
-      "url": "https://txt.gt.tc/users/HKTV.txt"
+      "url": "http://txt.gt.tc/users/HKTV.txt"
     },
     {
       "name": "FYTV",
