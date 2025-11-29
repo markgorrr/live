@@ -5,44 +5,42 @@
       "url": "http://4gtv.korice.eu.org/?type=m3u"
     },
     {
-      "name": "mytvsuper",
-      "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
-      "ua": "judy/5.2.1"
-    },
-    {
-      "name": "catvod-smt",
-      "url": "https://live.catvod.com/tv.m3u"
-    }, 
-    {
-      "name": "catvod-migu",
-      "url": "https://iptv.catvod.com/tv.m3u"    
-    }, 
-    {
-      "name": "epgpw",
-      "url": "https://freetv.fun/test_channels_all.m3u"    
-    },   
-    {
-      "name": "reysc",
-      "url": "https://raw.githubusercontent.com/reysc/M3U8/refs/heads/master/live2024.m3u"
-    },
-    {
-      "name": "冰茶TV",
-      "url": "https://fy.188766.xyz/?ip="
-    },
-    {
       "name": "BXTV",
       "url": "http://bxtv.3a.ink/live.m3u"
     },
     {
-      "name": "HKTV",
-      "url": "http://txt.gt.tc/users/HKTV.txt"
+      "name": "catvod",
+      "type": 0,
+      "url": "https://live.catvod.com/tv.m3u"
     },
+    {
+      "name": "epgpw",
+      "url": "https://freetv.fun/test_channels_taiwan.txt"    
+    }, 
     {
       "name": "FYTV",
       "type":"0",
       "url":"http://iptv.4666888.xyz/FYTV.txt",
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}", 
       "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },  
+    {
+      "name": "mytvsuper",
+      "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+      "ua": "judy/5.2.1"
+    },
+    {
+      "name": "jacktv",
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
+    },
+    {
+      "name": "冰茶TV",
+      "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
+      "ua": "bingcha/1.1(mianfeifenxiang)"
+    },
+    {
+      "name": "reysc",
+      "url": "https://raw.githubusercontent.com/reysc/M3U8/refs/heads/master/live2024.m3u"
     },
     {
       "name": "ouhua",
