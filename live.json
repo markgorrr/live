@@ -14,6 +14,10 @@
       "url": "https://live.catvod.com/tv.m3u"
     },
     {
+      "name": "IPTV888",
+      "url": "http://tv123.vvvv.ee/tv.m3u"    
+    }, 
+    {
       "name": "epgpw",
       "url": "https://freetv.fun/test_channels_taiwan.txt"    
     }, 
@@ -30,12 +34,12 @@
       "ua": "judy/5.2.1"
     },
     {
-      "name": "jacktv",
+      "name": "jackTV",
       "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
     },
     {
       "name": "冰茶TV",
-      "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
+      "url": "https://bc.188766.xyz/?url=https://live.iill.top&mishitong=true&mima=mianfeibuhuaqian",
       "ua": "bingcha/1.1(mianfeifenxiang)"
     },
     {
@@ -43,8 +47,12 @@
       "url": "https://raw.githubusercontent.com/reysc/M3U8/refs/heads/master/live2024.m3u"
     },
     {
-      "name": "ouhua",
-      "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/ouhua.m3u"
+      "name": "meWATCH",
+      "url": "https://raw.githubusercontent.com/geminijummnm/mimitu/refs/heads/main/bisheng/20251017Mewatch%E6%9C%80%E6%96%B0%E9%A2%91%E9%81%93.m3u"
+    },
+    {
+      "name": "migu",
+      "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
     } 
   ]
 } 
