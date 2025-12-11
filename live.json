@@ -22,6 +22,13 @@
       "url": "https://freetv.fun/test_channels_taiwan.txt"    
     }, 
     {
+	  "name":"YanG-1989",
+      "url":"https://tv.iill.top/m3u/Gather",
+      "ua":"okhttp/4.12.0",
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "FYTV",
       "type":"0",
       "url":"http://iptv.4666888.xyz/FYTV.txt",
@@ -29,17 +36,12 @@
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     },  
     {
-      "name": "mytvsuper",
-      "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
-      "ua": "judy/5.2.1"
-    },
-    {
       "name": "jackTV",
       "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
     },
     {
       "name": "冰茶TV",
-      "url": "https://bc.188766.xyz/?url=https://live.iill.top&mishitong=true&mima=mianfeibuhuaqian",
+      "url": "https://bc.188766.xyz/?ip=&haiwai=true",
       "ua": "bingcha/1.1(mianfeifenxiang)"
     },
     {
