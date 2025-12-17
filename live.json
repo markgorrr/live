@@ -18,6 +18,12 @@
       "url": "http://tv123.vvvv.ee/tv.m3u"    
     }, 
     {
+      "name": "HKTV",
+      "type": 0,
+      "url": "http://txt.gt.tc/users/HKTV.txt",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+    },
+    {
       "name": "冰茶TV",
       "url": "https://bc.188766.xyz/?ip=&haiwai=true",
       "ua": "bingcha/1.1(mianfeifenxiang)"
@@ -40,7 +46,7 @@
     {
       "name":"YanG-1989",
       "url":"https://tv.iill.top/m3u/Gather",
-      "ua":"okhttp/4.12.0",
+      "ua":"okhttp/3.15",
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
